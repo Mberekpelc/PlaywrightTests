@@ -1,2 +1,3 @@
 # PlaywrightTests
-Tests about Playwright
+Tests about Playwright and how it works
+
